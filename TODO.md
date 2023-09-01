@@ -1,0 +1,1 @@
+Con VS Code desde la terminal usando "javac" para compilar y "java" para ejecutar
