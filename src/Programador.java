@@ -10,7 +10,7 @@ public class Programador extends Empleado {
         } else if (act instanceof Diseño) {
             System.out.println("El programador " + this.nombre + " No realiza actividades del área de Diseño");
         } else {
-            System.out.println("El programador " + this.nombre + " realizo una actividad simple");
+            System.out.println("El programador " + this.nombre + " realizo una actividad simple o general");
         }
     }
 }
